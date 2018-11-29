@@ -4,7 +4,7 @@
 
 <p class="text-justify">Kevin was awarded the Leading Change Journalism Bursary in 2017 by the Queen Elizabeth Diamond Jubilee Trust. In June 2016, he was selected as Commonwealth Correspondent of the Month. He was commissioned by The Commonwealth Secretariat to write an article on women's corporate leadership for The 11th Commonwealth Women's Affairs Ministerial Meeting (held in Apia, Samoa) in 2016.</p>
 
-<p class="text-justify"Kevin completed his pre-university education at Hwa Chong Institution. Whilst a student, he performed award winning science research. He represented Singapore at the 8th Regional Congress: Search for SEAMEO Young Scientists (held at Penang, Malaysia) in 2012 and the Intel International Science and Engineering Fair (held at Phoenix, Arizona) in 2013.</p>
+<p class="text-justify">Kevin completed his pre-university education at Hwa Chong Institution. Whilst a student, he performed award winning science research. He represented Singapore at the 8th Regional Congress: Search for SEAMEO Young Scientists (held at Penang, Malaysia) in 2012 and the Intel International Science and Engineering Fair (held at Phoenix, Arizona) in 2013.</p>
 
 ### Markdown
 
