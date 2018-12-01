@@ -1,4 +1,4 @@
-## About
+<p align="centre">## About</p>
 
 <p align="justify">Kevin Tan is an undergraduate at the National University of Singapore (NUS) Business School.</p>
 
@@ -6,7 +6,7 @@
 
 <p align="justify">Kevin completed his pre-university education at Hwa Chong Institution. Whilst a student, he performed award winning science research. He represented Singapore at the 8th Regional Congress: Search for SEAMEO Young Scientists (held at Penang, Malaysia) in 2012 and the Intel International Science and Engineering Fair (held at Phoenix, Arizona) in 2013.</p>
 
-### Markdown
+### Education
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
