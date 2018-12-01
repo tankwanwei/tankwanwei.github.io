@@ -1,5 +1,7 @@
 ## About
 
+<p align="center">centered text</p>
+
 Kevin Tan is an undergraduate at the National University of Singapore (NUS) Business School.
 
 Kevin was awarded the Leading Change Journalism Bursary in 2017 by the Queen Elizabeth Diamond Jubilee Trust. In June 2016, he was selected as Commonwealth Correspondent of the Month. He was commissioned by The Commonwealth Secretariat to write an article on women's corporate leadership for The 11th Commonwealth Women's Affairs Ministerial Meeting (held in Apia, Samoa) in 2016.
