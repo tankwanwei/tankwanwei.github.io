@@ -1,4 +1,4 @@
-<p align="centre">## About</p>
+## About
 
 <p align="justify">Kevin Tan is an undergraduate at the National University of Singapore (NUS) Business School.</p>
 
